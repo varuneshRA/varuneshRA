@@ -3,16 +3,18 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=32CD32&width=600&lines=Passionate+Developer+%7C+Problem+Solver+%7C;Tech+Enthusiast;Full+Stack+Developer+%7C+App+Developer;Exploring+Blockchain+and+AI;Let's+build+something+amazing+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=32CD32&width=600&lines=Passionate+Developer+%7C+Problem+Solver;Full+Stack+Developer+%7C+App+Developer;Exploring+Blockchain+and+AI;Let's+build+something+amazing+together!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 💻 About Me
 
-I'm a **Computer Science Engineering student** with experience as a **Research Intern and Web Developer Intern**. Passionate about solving **real-world challenges** with technology. Skilled in **Full Stack Development, App Development, and Blockchain**. Always eager to explore new technologies and contribute to **innovative projects**.
+Computer Science Engineering student with hands-on experience as a Research Intern and Web Developer Intern, passionate about solving real-world challenges through technology.
 
-I love solving **Data Structures and Algorithms (DSA)** problems and have solved **660+ problems on LeetCode** and **220+ problems on GeeksForGeeks**.
+Skilled in Full-Stack Development, App Development, and Problem Solving, with a strong foundation in Data Structures and Algorithms (DSA). Proficient in frontend and backend development, database management, API integration and Compter Networks, with a keen interest in optimizing algorithms and building scalable applications.
+
+Driven by a passion for continuous learning and technological innovation, always eager to explore cutting-edge solutions and contribute to impactful projects.
 
 ---
 ## 🚀 Skills & Technologies
