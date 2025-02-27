@@ -10,9 +10,7 @@
 
 ## 💻 About Me
 
-Computer Science Engineering student with hands-on experience as a Research Intern and Web Developer Intern, passionate about solving real-world challenges through technology.
-
-Skilled in Full-Stack Development, App Development, and Problem Solving, with a strong foundation in Data Structures and Algorithms (DSA). Proficient in frontend and backend development, database management, API integration and Compter Networks, with a keen interest in optimizing algorithms and building scalable applications.
+**Computer Science Engineer** with passionate about solving real-world challenges through technology.Skilled in **Full-Stack Development, App Development, and Problem Solving**, with a strong foundation in **Data Structures and Algorithms (DSA)**. Proficient in **frontend and backend development, database management, API integration and Compter Networks**, with a keen interest in optimizing algorithms and building scalable applications.
 
 Driven by a passion for continuous learning and technological innovation, always eager to explore cutting-edge solutions and contribute to impactful projects.
 
