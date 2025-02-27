@@ -1,8 +1,11 @@
 # Hi there! 👋 I'm Varunesh RA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ra-varunesh)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/varuneshRA)
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/ravarunesh/)
+
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-Profile-green?style=flat)](https://www.geeksforgeeks.org/user/varunesh/)
 
 ## 💻 About Me
