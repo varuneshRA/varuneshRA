@@ -18,7 +18,7 @@
 
 ## 🚀 Skills & Technologies
 
-### 📜 Programming Languages
+### 🌜 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -36,7 +36,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🗄️ Databases
+### 🛄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -50,22 +50,29 @@
 
 ---
 
-## 📈 Coding Profiles
+## 📊 Coding Profiles
 
 ### 🔥 LeetCode
 [![Leetcode Stats](https://leetcard.jacoblin.cool/ravarunesh?ext=contest&theme=dark)](https://leetcode.com/ravarunesh)
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/ravarunesh/)
 
 ### 🏆 GeeksForGeeks
 [220+ problems solved, 30th Institute Rank](https://www.geeksforgeeks.org/user/varunesh/)  
+
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-Profile-green?style=flat)](https://www.geeksforgeeks.org/user/varunesh/)
 
 ---
 
 ## 📫 Let's Connect!
 
+**Email**
 [![Email](https://img.shields.io/badge/Email-ravarunesh2004%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravarunesh2004@gmail.com)
+
+**LinkedIn**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ra-varunesh)
+
+**GitHub**
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/varuneshRA)
 
 🚀 **Website/Portfolio:** [Coming Soon!]
@@ -73,4 +80,3 @@
 ---
 
 💡 _"Technology is best when it brings people together."_ – Let's collaborate and build something amazing! 🚀
-
