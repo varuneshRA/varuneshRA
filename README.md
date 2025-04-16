@@ -15,6 +15,8 @@
 Driven by a passion for continuous learning and technological innovation, always eager to explore cutting-edge solutions and contribute to impactful projects.
 
 ---
+[![Resume](https://img.shields.io/badge/Resume-View-blueviolet?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1ebHkTD9rtk8xWiQKxt9O2eWOsmPP7dH-/view?usp=drive_link)
+---
 ## 🚀 Skills & Technologies
 - **Programming Languages:** Python, C, C++, Java
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap-5, React, React Native
@@ -39,7 +41,6 @@ Driven by a passion for continuous learning and technological innovation, always
 ---
 
 ## 📫 Let's Connect!
-
 
 [![Email](https://img.shields.io/badge/Email-ravarunesh2004%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravarunesh2004@gmail.com)
 
